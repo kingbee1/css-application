@@ -1,0 +1,39 @@
+.main_head h1{
+    background: #ae4920
+    
+}
+
+.container_1 h2{
+    display: flex;
+}
+
+.container_1 h2{
+    background: #e0e12a;
+    display: inline-flex;
+}
+
+.flex_container{
+    display: flex;
+    flex-wrap: wrap;
+    background: fuchsia;
+    justify-content:space-around;
+}
+
+
+
+.flex_container div{
+    height: 50px;
+    width: 300px;
+    /* flex: 1; */
+    background-color: limegreen;
+   
+    margin: 8px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* footer p{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #d1e12a;
+} */
